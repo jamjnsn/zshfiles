@@ -64,7 +64,7 @@ source $ZDOTDIR/keybindings.zsh
 # Prompt
 # ==================================================
 
-append_fpath $ZDOTDIR/prompt
+append_fpath $ZDOTDIR/prompts
 autoload -Uz prompt && prompt
 
 # ==================================================
